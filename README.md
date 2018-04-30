@@ -2,6 +2,8 @@
 
 CSCI 4720 - Computer Architecture and Organization
 
+Compare two arrays.
+
 If element in Array A is less than element in Array B, display 0. Otherwise, display 1
 
 Translating the following code into MIPS Assembly Language Code:
