@@ -1,6 +1,4 @@
-#Aaron Cai
-#810-379-273
-#02/20/2018
+#Aaron
 
 .data
 string: .asciiz "Array[C]: "				#store string "Array[C]: "
