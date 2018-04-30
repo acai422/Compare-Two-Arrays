@@ -6,7 +6,7 @@ If element in Array A is less than element in Array B, display 0. Otherwise, dis
 
 Translating the following code into MIPS Assembly Language Code:
 
-for(int i = 0; i < A.length; i++) {
+for(int i = 0; i < A.length; i++){
 if(A[i] < B[i]){   
 C[i] = 0;       
 }       
